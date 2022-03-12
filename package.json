@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "boxicons": "^2.1.2",
+    "emoji-mart": "^3.0.1",
+    "emoji-picker-react": "^3.5.1",
+    "firebase": "^9.6.8",
+    "moment": "^2.29.1",
     "next": "12.1.0",
+    "next-auth": "^4.2.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-moment": "^1.1.1"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.2",
     "eslint": "8.10.0",
-    "eslint-config-next": "12.1.0"
+    "eslint-config-next": "12.1.0",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23"
   }
 }
